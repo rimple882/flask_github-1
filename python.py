@@ -1,0 +1,2 @@
+def sssssss():
+  print('s')
